@@ -1,0 +1,7 @@
+Manual test cases:
+1. Screenshot containing test@example.com -> email detection.
+2. Screenshot containing +919876543210 -> phone detection.
+3. Screenshot containing sk-testabcdefghijklmnop -> API-like token detection.
+4. Screenshot with a QR code -> QR detection.
+5. Screenshot with a face -> face detection.
+6. Verify each finding can be redacted and downloaded.

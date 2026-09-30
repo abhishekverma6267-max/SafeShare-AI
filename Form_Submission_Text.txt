@@ -1,0 +1,11 @@
+PROJECT TITLE
+SafeShare AI: On-Device AI Privacy Guardian for Screen Sharing
+
+BRIEF PROJECT DESCRIPTION (paste into the 500-character field)
+SafeShare AI is a privacy-focused on-device AI solution that scans screenshots before screen sharing. It detects potentially sensitive text, faces and QR codes locally, calculates a privacy-risk score, and can blur, pixelate or blackout detected regions. The architecture is designed for Snapdragon-powered HP PCs with a Qualcomm AI Hub/ONNX deployment path, reducing cloud dependency and helping protect private information during meetings, presentations and recordings.
+
+GITHUB REPOSITORY LINK
+Paste your actual public GitHub URL after creating and testing the repository.
+
+SNAPDRAGON LAPTOP
+Select Yes only if you actually own/use an eligible Snapdragon-powered HP laptop.
